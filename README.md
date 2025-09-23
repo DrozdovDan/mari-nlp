@@ -24,7 +24,7 @@
 
 * [TartuNLP “Smugri”](https://huggingface.co/tartuNLP/smugri3_14-finno-ugric-nmt) Multilingual Neural Machine Translation model for low-resource Finno-Ugric languages. Includes Meadow Mari (average to-lang scores: 8.51 bleau, 43.42 chrf, 38.76 chrf++), Hill Mari (average to-lang scores: 7.30 bleau, 40.81 chrf, 36.40 chrf++).
 
-* [Adapters for multilingual BERT/XLM-R] trained adapters on wikipedia corpus for Meadow Mari. [BERT](https://huggingface.co/AdapterHub/bert-base-multilingual-cased-mhr-wiki_houlsby). [XLM-R](https://huggingface.co/AdapterHub/xlm-roberta-base-mhr-wiki_pfeiffer).
+* Trained adapters on wikipedia corpus for Meadow Mari. [BERT](https://huggingface.co/AdapterHub/bert-base-multilingual-cased-mhr-wiki_houlsby). [XLM-R](https://huggingface.co/AdapterHub/xlm-roberta-base-mhr-wiki_pfeiffer).
 
 #### Word Similarity
 * [Fasttext Mari Word Embeddings](https://fasttext.cc/docs/en/crawl-vectors.html). [Meadow Mari](https://huggingface.co/facebook/fasttext-mhr-vectors). [Hill Mari](https://huggingface.co/facebook/fasttext-mrj-vectors).
@@ -32,7 +32,7 @@
 <a name="software"></a>
 ## Methods/Software
 
-* [GiellaLT] tools for building morphological analysers, proofing tools and dictionaries. [Meadow Mari repository](https://github.com/giellalt/lang-mhr). [Hill Mari repository](https://github.com/giellalt/lang-mjr).
+* GiellaLT tools for building morphological analysers, proofing tools and dictionaries. [Meadow Mari repository](https://github.com/giellalt/lang-mhr). [Hill Mari repository](https://github.com/giellalt/lang-mjr).
 
 * [Apertium](https://github.com/apertium/apertium-mrj-mhr) morphological analysis and generation, PoS-tagging.
 
